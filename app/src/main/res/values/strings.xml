@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ex1-IMC</string>
+    <string name="labelPeso">Digite seu peso (Kg):</string>
+    <string name="labelAltura">Digite sua altura (Cm):</string>
+    <string name="btnSave">Calcular</string>
+    <string name="abaixo">Abaixo do peso</string>
+    <string name="normal">Peso normal</string>
+    <string name="acima">Acima do peso</string>
+    <string name="obeso">Obeso</string>
+</resources>
